@@ -1,0 +1,15 @@
+.team-heading {
+    background-color: #e84855;
+    color: #ffffff;
+}
+
+.team-area {
+    max-width: 1000px;
+    margin: 3em auto;
+    flex-wrap: wrap;
+}
+
+.employee-card {
+    margin: 1em;
+    max-width: ;
+}
