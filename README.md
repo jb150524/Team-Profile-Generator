@@ -12,11 +12,12 @@ ScreenShot
 ![Screen Shot 2021-08-13 at 12 01 27 AM](https://user-images.githubusercontent.com/84401029/129303167-f617ff0b-d6ec-4828-98e0-d92592612a93.png)
 
 
-Installation
-Run npm install for dependencies
-Run npm i --save-dev  jest to run tests
-Run index.js for program to work
+Installation -
+
+- Run npm install for dependencies
+- Run npm i --save-dev  jest to run tests
+- Run index.js for program to work
 
 
-Tests
-npm run test
+- Tests
+- npm run test
